@@ -1,11 +1,11 @@
 # qzone_mood
 Selenium采集QQ空间好友说说
 
-#1.安装Selenium
+# 1.安装Selenium
 ```
 pip install Selenium
 ```
-#2.在Python中使用Selenium获取QQ空间好友说说
+# 2.在Python中使用Selenium获取QQ空间好友说说
 
 ![](http://upload-images.jianshu.io/upload_images/6078268-c83d46e090183695.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
